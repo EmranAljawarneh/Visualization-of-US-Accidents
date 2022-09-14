@@ -1,2 +1,5 @@
-# US.Accidents
-This repository is a brief description of a paper published in the IEEE Xplore. The paper has been written by Emran Aljawarneh, Sayel Abu alighah, and Faris Al-ayoub
+Car accidents cause much damage in real life, such as human souls and economic problems. The number of human deaths caused by car accidents is increasing. Countries in general and people in specific suffer from the economic damage caused by car accidents. Python programming language was used in the study to visualize some properties and issues. Pandas, NumPy, Matplotlib, and Seaborn, are python libraries used in the study. The paper introduced some shapes that display the dataset and the problem in an understandable way for the readers. This study will help people to avoid accidents, even in a small way.
+
+In this study, we tried to solve three missions by visualizing each task with a specific shape that describes what each task tries to explain. The state that has the highest number of accidents, the time that accidents usually occur in the US, and visualize the whole US accidents dataset are the taks we tried to solve.
+
+Knowing the causes that cause accidents provides a good factor in avoiding and solving the problems of car accidents and provides enough awareness for people to deal with accidents. Knowing where accidents occurred helps the government to provide safe facilities in these ways to help citizens take care of themselves while driving to avoid accidents as much as possible.
