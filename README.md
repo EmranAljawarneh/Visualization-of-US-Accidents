@@ -2,4 +2,4 @@ Car accidents cause much damage in real life, such as human souls and economic p
 
 In this study, we tried to solve three missions by visualizing each task with a specific shape that describes what each task tries to explain. The state that has the highest number of accidents, the time that accidents usually occur in the US, and visualize the whole US accidents dataset are the taks we tried to solve.
 
-Knowing the causes that cause accidents provides a good factor in avoiding and solving the problems of car accidents and provides enough awareness for people to deal with accidents. Knowing where accidents occurred helps the government to provide safe facilities in these ways to help citizens take care of themselves while driving to avoid accidents as much as possible.
+Knowing the causes that cause accidents provides a good factor in avoiding and solving the problems of car accidents and provides enough awareness for people to deal with accidents. Knowing where accidents occurred helps the government to provide safe facilities in these ways to help citizens task care of themselves while driving to avoid accidents as much as possible.
